@@ -26,7 +26,7 @@ namespace Ex2
         }
         static void Main(string[] args)
         {
-            //code verify in a word or a sentence is palindorme.
+            //code verify if a word or a sentence is palindorme.
             Console.WriteLine("Let's begin:");
             while (true)
             {
